@@ -5,7 +5,7 @@ package.domain = org.gopal
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,mp3
 version = 0.1
-requirements = python3,kivy
+requirements = python3,kivy==2.1.0,pillow
 orientation = portrait
 fullscreen = 1
 android.archs = armeabi-v7a, arm64-v8a
